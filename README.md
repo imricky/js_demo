@@ -10,3 +10,5 @@ js写的一些小效果
 - [轮播](http://demo.rickyer.com/%E8%BD%AE%E6%92%AD.html)
 
 - [天气效果](http://demo.rickyer.com/%E5%A4%A9%E6%B0%94%E6%95%88%E6%9E%9C/weather.html)
+
+## Make code change world!
